@@ -1,0 +1,17 @@
+.profile-sidebar {
+  width: 284px;
+  height: 900px;
+  padding: 0 24px;
+  box-sizing: border-box;
+  vertical-align: top;
+  display: inline-block;
+}
+.web-logo {
+  width: 100%;
+  text-align: left;
+  padding-top: 32px;
+  box-sizing: border-box;
+}
+.web-logo img {
+  width: 17px;
+}

@@ -1,0 +1,9 @@
+@import "normalize.css";
+
+/*foundation*/
+@import "./src/css/foundation/common.css";
+/*frames*/
+@import "src\css\frames\app-container.css";
+@import "src\css\frames\avertisement-sidebar.css";
+@import "src\css\frames\main-content.css";
+@import "src\css\frames\profile-sidebar.css";
