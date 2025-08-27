@@ -1,0 +1,78 @@
+{
+  "userProfiles": [
+    {
+      "id": "1",
+      "name": "Andrew Li",
+      "avatar": "/public/image/profile/profile_1.png",
+      "email": "andrewli@gmail.com",
+      "description": "I have honed my skills in programming languages such as Python and Java, and I have experience in developing web applications and machine learning models.",
+      "hobby": "Programming",
+      "constellation": "Capricorn",
+      "mbti": "IFTP",
+      "linked": "2114444",
+      "x": "andrewli@gmail.com",
+      "wechat": "88888888"
+    },
+    {
+      "id": "2",
+      "name": "Alex Wang",
+      "avatar": "/public/image/profile/profile_4.png",
+      "email": "alex.wang@example.com",
+      "description": "I have honed my skills in programming languages such as Python and Java, and I have experience in developing web applications and machine learning models.",
+      "bio": "A passionate developer with expertise in web technologies and a love for creating interactive applications.",
+      "constellation": "Aquarius",
+      "mbti": "ENFP",
+      "hobby": "Photography",
+      "linkedIn": "2114445",
+      "x": "alexwang@example.com",
+      "wechat": "186221240117"
+    }
+  ],
+  "userPosts": [
+    {
+      "id": "3",
+      "user": "bbbbbbk",
+      "avatar": "/public/image/profile/profile_3.png",
+      "image": "public/image/post-image/post-image1.jpg",
+      "content": "Had a great day out with friends. We laughed so much and made some wonderful memories!",
+      "timestamp": "2024-09-10 16:00:00"
+    },
+    {
+      "id": "5",
+      "user": "frank",
+      "avatar": "/public/image/profile/profile_3.png",
+      "image": "public/image/post-image/post-image1.jpg",
+      "content": "Had a great day out with friends. We laughed so much and made some wonderful memories!",
+      "timestamp": "2024-09-10 16:00:00"
+    },
+    {
+      "id": "",
+      "user": "ally",
+      "avatar": "/public/image/profile/profile_3.png",
+      "image": "public/image/post-image/post-image1.jpg",
+      "content": "Had a great day out with friends. We laughed so much and made some wonderful memories!",
+      "timestamp": "2025-09-10 16:00:00"
+    },
+    {
+      "id": "4",
+      "user": "ally",
+      "avatar": "/public/image/profile/profile_3.png",
+      "image": "public/image/post-image/post-image1.jpg",
+      "content": "Had a great day out with friends. We laughed so much and made some wonderful memories!",
+      "timestamp": "2025-09-10 16:00:00"
+    },
+    {
+      "id": "1",
+      "name": "Andrew Li",
+      "avatar": "/public/image/profile/profile_1.png",
+      "email": "andrewli@gmail.com",
+      "description": "I have honed my skills in programming languages such as Python and Java, and I have experience in developing web applications and machine learning models.",
+      "hobby": "Programming",
+      "constellation": "Capricorn",
+      "mbti": "IFTP",
+      "linked": "2114444",
+      "x": "andrewli@gmail.com",
+      "wechat": "88888888"
+    }
+  ]
+}
